@@ -1,5 +1,8 @@
 # Practice Python
 
+![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
+
 Hello and welcome to our notebooks for practicing Python!
 
 The session consists of two parts, one notebook for each:
@@ -10,5 +13,3 @@ The session consists of two parts, one notebook for each:
 ## License
 
 The contents are licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
