@@ -5,6 +5,10 @@
 
 Hello and welcome to our notebooks for practicing Python!
 
+We recommend to run the notebooks in GitHub Codespaces:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=digital-work-lab/practice-python)
+
 The session consists of two parts, one notebook for each:
 
 - [Python 1](notebooks/python_1.ipynb)
