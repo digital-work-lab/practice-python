@@ -18,6 +18,17 @@ The session consists of two parts, one notebook for each:
 | [Python 1](notebooks/python_1.ipynb) | 90         |
 | [Python 2](notebooks/python_2.ipynb) | 90         |
 
+## Feedback and Contributions
+
+We welcome your feedback!
+If you have suggestions for improvement, find any issues, or would like to contribute new features or exercises, we encourage you to open a pull request or submit an issue.
+Contributions help us make this resource better for everyone.
+Whether it's fixing a bug, improving existing content, or adding new Python scenarios, we value your input!
+
+Feel free to reach out through the GitHub repository’s [issues](https://github.com/digital-work-lab/practice-python/issues) or [pull requests](https://github.com/digital-work-lab/practice-python/pulls) sections.
+Together, we can create an even more useful learning tool for Python!
+
+
 ## License
 
 The contents are licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
