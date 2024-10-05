@@ -1,4 +1,4 @@
-# Practice Python
+# Practice Python Notebooks
 
 ![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)
 [![DOI](https://zenodo.org/badge/863470771.svg)](https://doi.org/10.5281/zenodo.13892978)
@@ -28,6 +28,9 @@ Whether it's fixing a bug, improving existing content, or adding new Python scen
 Feel free to reach out through the GitHub repository’s [issues](https://github.com/digital-work-lab/practice-python/issues) or [pull requests](https://github.com/digital-work-lab/practice-python/pulls) sections.
 Together, we can create an even more useful learning tool for Python!
 
+## Cite
+
+Gerit Wagner. (2024). Practice Python Notebooks (Version 0.1.0). Zenodo. https://doi.org/10.5281/zenodo.13892978
 
 ## License
 
