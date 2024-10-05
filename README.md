@@ -4,6 +4,7 @@
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 
 Hello and welcome to our notebooks for practicing Python!
+The notebooks are designed as an introductory resource for [The Open-Source Project](https://digital-work-lab.github.io/open-source-project/).
 
 We recommend to run the notebooks in GitHub Codespaces:
 
@@ -11,8 +12,10 @@ We recommend to run the notebooks in GitHub Codespaces:
 
 The session consists of two parts, one notebook for each:
 
-- [Python 1](notebooks/python_1.ipynb)
-- [Python 2](notebooks/python_2.ipynb)
+| Notebook                             | Time (min) | 
+|--------------------------------------|------------|
+| [Python 1](notebooks/python_1.ipynb) | 90         |
+| [Python 2](notebooks/python_2.ipynb) | 90         |
 
 ## License
 
